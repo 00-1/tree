@@ -1,49 +1,20 @@
-import removals from './removals.mjs'
-import colour from './colour.mjs'
-import readline from 'readline'
+import colour from '../tools/colour.mjs'
+import waitForKeypress from '../tools/waitForKeypress.mjs'
 
-function waitForKeypress() {
-    return new Promise(resolve => {
-      const rl = readline.createInterface({
-        input: process.stdin,
-        output: process.stdout
-      });
-  
-      // Listen for keypress event
-      process.stdin.once('keypress', (str, key) => {
-        if (key && key.ctrl && key.name === 'c') {
-            // If Ctrl + C is pressed, exit the program
-            console.log('\ngame over')
-            process.exit();
-          } else {
-            // move cursor back to the beginning of the input:
-            readline.moveCursor(rl.output, -rl.line.length, 0);
-            // clear everything to the right of the cursor:
-            readline.clearLine(rl.output, 1);
-
-            rl.close();
-            resolve(key);
-          }
-      });
-  
-      // Enable listening for keypress events
-      rl.input.setRawMode(true);
-      rl.input.resume();
-    });
-  }
-  
-
-
-async function play() {
+async function play(removals) {
     // pick a random word to start the game
-    const startWord = removals[Math.floor(Math.random() * removals.length)]
+    const index = Math.floor(Math.random() * removals.length)
+    const startWord = removals[index]
+
+    // take that word out, so it doesn't get reused
+    const newRemovals = removals.toSpliced(index, 1)
 
     // pick a random letter to start the game
     const validRemovals = startWord.validRemovals.filter(({ word }) => word)
     const startRemoval = validRemovals[Math.floor(Math.random() * validRemovals.length)]
 
     // find other words that could have this letter added
-    const connections = removals.filter(({ validRemovals }) => 
+    const connections = newRemovals.filter(({ validRemovals }) => 
         validRemovals.find(({ letter, word }) => 
             letter===startRemoval.letter
             && word
@@ -83,8 +54,12 @@ async function play() {
         colour.yellow(startConnection.word)
     })`)
 
-    play()
+    play(newRemovals)
+
+    // ##### TODO: 
+    // - remove rude words
+    // - check for correct words on main word list
 }
 
 
-play();
+export default play

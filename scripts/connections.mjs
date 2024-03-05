@@ -1,11 +1,11 @@
 import { promises as fs } from 'fs';
-import colour from './colour.mjs'
+import colour from '../tools/colour.mjs'
 
 
 async function findConnections() {
 
     // import word list
-    const imported = (await fs.readFile('words', 'utf8')).split(`\n`);
+    const imported = (await fs.readFile('data/words', 'utf8')).split(`\n`);
     const words = imported
         //filter out words containing anything besides lowercase alphabet
         .filter(word => /^[a-z]+$/.test(word))
@@ -17,7 +17,7 @@ async function findConnections() {
         .filter(word => !word.endsWith('y'))
         .filter(word => !word.startsWith('a'))
         // filter out long words
-        .filter(word => word.length < 8)
+        .filter(word => word.length < 10)
 
     // check whether a letter can be removed from a word
     // NOTE: this is quite slow with a lot of words
@@ -32,10 +32,11 @@ async function findConnections() {
                 )]
             }))
         }))
-        .filter(({validRemovals}) => validRemovals.find(({word}) => word))
+        // filter words with at least 3 valid removals
+        .filter(({validRemovals}) => validRemovals.filter(({word}) => word).length > 2)
 
     // write valid removals to file
-    await fs.writeFile('removals.mjs', `export default ${
+    await fs.writeFile('data/removals-temp', `export default ${
         JSON.stringify(removals, null, 2)
     }`);
 
