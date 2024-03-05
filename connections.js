@@ -20,8 +20,9 @@ async function findConnections() {
         .filter(word => /^[a-z]+$/.test(word))
         // filter out words with common start/ends, which can be boring
         .filter(word => !word.endsWith('s'))
-        .filter(word => !word.endsWith('d'))
-        .filter(word => !word.endsWith('r'))
+        .filter(word => !word.endsWith('ed'))
+        .filter(word => !word.endsWith('er'))
+        .filter(word => !word.endsWith('ing'))
         .filter(word => !word.endsWith('y'))
         .filter(word => !word.startsWith('a'))
         // filter out long words
