@@ -18,11 +18,12 @@ async function findConnections() {
     const words = imported
         //filter out words containing anything besides lowercase alphabet
         .filter(word => /^[a-z]+$/.test(word))
-        // filter out words with common endings, which can be boring
+        // filter out words with common start/ends, which can be boring
         .filter(word => !word.endsWith('s'))
         .filter(word => !word.endsWith('d'))
         .filter(word => !word.endsWith('r'))
         .filter(word => !word.endsWith('y'))
+        .filter(word => !word.startsWith('a'))
         // filter out long words
         .filter(word => word.length < 8)
 

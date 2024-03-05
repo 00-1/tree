@@ -1,5155 +1,5 @@
 [
   {
-    "word": "aback",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "back"
-      },
-      {
-        "letter": "b"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "k"
-      }
-    ]
-  },
-  {
-    "word": "abase",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "base"
-      },
-      {
-        "letter": "b"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "abash",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "bash"
-      },
-      {
-        "letter": "b"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "h"
-      }
-    ]
-  },
-  {
-    "word": "abasing",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "basing"
-      },
-      {
-        "letter": "b"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "abate",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "bate"
-      },
-      {
-        "letter": "b"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "abating",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "bating"
-      },
-      {
-        "letter": "b"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "abeam",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "beam"
-      },
-      {
-        "letter": "b"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "m"
-      }
-    ]
-  },
-  {
-    "word": "abet",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "bet"
-      },
-      {
-        "letter": "b"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "abide",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "bide"
-      },
-      {
-        "letter": "b",
-        "word": "aide"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "d"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "abiding",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "biding"
-      },
-      {
-        "letter": "b",
-        "word": "aiding"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "d"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "ablate",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "b"
-      },
-      {
-        "letter": "l",
-        "word": "abate"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "ablaze",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "blaze"
-      },
-      {
-        "letter": "b"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "z"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "able",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "b",
-        "word": "ale"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "ablest",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "blest"
-      },
-      {
-        "letter": "b"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "abloom",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "bloom"
-      },
-      {
-        "letter": "b"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "m"
-      }
-    ]
-  },
-  {
-    "word": "abode",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "bode"
-      },
-      {
-        "letter": "b"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "d"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "about",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "bout"
-      },
-      {
-        "letter": "b"
-      },
-      {
-        "letter": "o",
-        "word": "abut"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "abreast",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "breast"
-      },
-      {
-        "letter": "b"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "abridge",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "bridge"
-      },
-      {
-        "letter": "b"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "d"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "abut",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "but"
-      },
-      {
-        "letter": "b"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "abuzz",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "buzz"
-      },
-      {
-        "letter": "b"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "z"
-      },
-      {
-        "letter": "z"
-      }
-    ]
-  },
-  {
-    "word": "ache",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "h",
-        "word": "ace"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "aching",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "h",
-        "word": "acing"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "acme",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "m",
-        "word": "ace"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "acne",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "n",
-        "word": "ace"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "acorn",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "corn"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "n"
-      }
-    ]
-  },
-  {
-    "word": "acre",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "c",
-        "word": "are"
-      },
-      {
-        "letter": "r",
-        "word": "ace"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "act",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "c",
-        "word": "at"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "acting",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "t",
-        "word": "acing"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "acute",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "cute"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "acutest",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "cutest"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "acyclic",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "cyclic"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "y"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "c"
-      }
-    ]
-  },
-  {
-    "word": "addling",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "d"
-      },
-      {
-        "letter": "d"
-      },
-      {
-        "letter": "l",
-        "word": "adding"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "adieux",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "d"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "x",
-        "word": "adieu"
-      }
-    ]
-  },
-  {
-    "word": "ado",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "do"
-      },
-      {
-        "letter": "d"
-      },
-      {
-        "letter": "o"
-      }
-    ]
-  },
-  {
-    "word": "adrift",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "drift"
-      },
-      {
-        "letter": "d"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "f"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "adverse",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "d",
-        "word": "averse"
-      },
-      {
-        "letter": "v"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "advert",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "d",
-        "word": "avert"
-      },
-      {
-        "letter": "v"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "advisee",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "d"
-      },
-      {
-        "letter": "v"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "e",
-        "word": "advise"
-      },
-      {
-        "letter": "e",
-        "word": "advise"
-      }
-    ]
-  },
-  {
-    "word": "aeon",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "eon"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "n"
-      }
-    ]
-  },
-  {
-    "word": "afghani",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "f"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "h"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "i",
-        "word": "afghan"
-      }
-    ]
-  },
-  {
-    "word": "afire",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "fire"
-      },
-      {
-        "letter": "f"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "aflame",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "flame"
-      },
-      {
-        "letter": "f"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "m"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "afloat",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "float"
-      },
-      {
-        "letter": "f"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "afoot",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "foot"
-      },
-      {
-        "letter": "f"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "afore",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "fore"
-      },
-      {
-        "letter": "f"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "afoul",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "foul"
-      },
-      {
-        "letter": "f"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "l"
-      }
-    ]
-  },
-  {
-    "word": "afresh",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "fresh"
-      },
-      {
-        "letter": "f"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "h"
-      }
-    ]
-  },
-  {
-    "word": "afro",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "fro"
-      },
-      {
-        "letter": "f"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "o"
-      }
-    ]
-  },
-  {
-    "word": "aft",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "ft"
-      },
-      {
-        "letter": "f",
-        "word": "at"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "again",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "gain"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      }
-    ]
-  },
-  {
-    "word": "agape",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "gape"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "p"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "agate",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "gate"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "ageing",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "e",
-        "word": "aging"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "agene",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "gene"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "agent",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "gent"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "agleam",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "gleam"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "m"
-      }
-    ]
-  },
-  {
-    "word": "aglow",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "glow"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "w"
-      }
-    ]
-  },
-  {
-    "word": "agnate",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "n",
-        "word": "agate"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "ago",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "go"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "o"
-      }
-    ]
-  },
-  {
-    "word": "agog",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "g",
-        "word": "ago"
-      }
-    ]
-  },
-  {
-    "word": "ague",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "u",
-        "word": "age"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "aha",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "ha"
-      },
-      {
-        "letter": "h"
-      },
-      {
-        "letter": "a",
-        "word": "ah"
-      }
-    ]
-  },
-  {
-    "word": "ahem",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "hem"
-      },
-      {
-        "letter": "h"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "m"
-      }
-    ]
-  },
-  {
-    "word": "aide",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "ide"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "d"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "aim",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "i",
-        "word": "am"
-      },
-      {
-        "letter": "m"
-      }
-    ]
-  },
-  {
-    "word": "ain",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "in"
-      },
-      {
-        "letter": "i",
-        "word": "an"
-      },
-      {
-        "letter": "n"
-      }
-    ]
-  },
-  {
-    "word": "aisle",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "isle"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "aitch",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "itch"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "h"
-      }
-    ]
-  },
-  {
-    "word": "akin",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "kin"
-      },
-      {
-        "letter": "k",
-        "word": "ain"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      }
-    ]
-  },
-  {
-    "word": "ala",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "la"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "a"
-      }
-    ]
-  },
-  {
-    "word": "alack",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "lack"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "k"
-      }
-    ]
-  },
-  {
-    "word": "alai",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "i",
-        "word": "ala"
-      }
-    ]
-  },
-  {
-    "word": "alarum",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "u",
-        "word": "alarm"
-      },
-      {
-        "letter": "m"
-      }
-    ]
-  },
-  {
-    "word": "alb",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "lb"
-      },
-      {
-        "letter": "l",
-        "word": "ab"
-      },
-      {
-        "letter": "b"
-      }
-    ]
-  },
-  {
-    "word": "alba",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "b",
-        "word": "ala"
-      },
-      {
-        "letter": "a",
-        "word": "alb"
-      }
-    ]
-  },
-  {
-    "word": "album",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "b",
-        "word": "alum"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "m"
-      }
-    ]
-  },
-  {
-    "word": "alee",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "lee"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "e",
-        "word": "ale"
-      },
-      {
-        "letter": "e",
-        "word": "ale"
-      }
-    ]
-  },
-  {
-    "word": "alga",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l",
-        "word": "aga"
-      },
-      {
-        "letter": "g",
-        "word": "ala"
-      },
-      {
-        "letter": "a"
-      }
-    ]
-  },
-  {
-    "word": "algae",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "e",
-        "word": "alga"
-      }
-    ]
-  },
-  {
-    "word": "algal",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l",
-        "word": "alga"
-      }
-    ]
-  },
-  {
-    "word": "alien",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "lien"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "n"
-      }
-    ]
-  },
-  {
-    "word": "alight",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "light"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "h"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "alike",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "like"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "k"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "alit",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "lit"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "i",
-        "word": "alt"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "alive",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "live"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "v"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "alma",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "m",
-        "word": "ala"
-      },
-      {
-        "letter": "a"
-      }
-    ]
-  },
-  {
-    "word": "aloe",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "o",
-        "word": "ale"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "aloft",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "loft"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "f"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "alone",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "lone"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "n",
-        "word": "aloe"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "along",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "long"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "alright",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l",
-        "word": "aright"
-      },
-      {
-        "letter": "r",
-        "word": "alight"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "h"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "alsike",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "s",
-        "word": "alike"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "k"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "alt",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l",
-        "word": "at"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "alto",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "o",
-        "word": "alt"
-      }
-    ]
-  },
-  {
-    "word": "alumina",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "m"
-      },
-      {
-        "letter": "i",
-        "word": "alumna"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "a"
-      }
-    ]
-  },
-  {
-    "word": "alumnae",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "m"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "e",
-        "word": "alumna"
-      }
-    ]
-  },
-  {
-    "word": "amaze",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "maze"
-      },
-      {
-        "letter": "m"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "z"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "amble",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "m",
-        "word": "able"
-      },
-      {
-        "letter": "b"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "amen",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "men"
-      },
-      {
-        "letter": "m"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "n"
-      }
-    ]
-  },
-  {
-    "word": "amice",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "mice"
-      },
-      {
-        "letter": "m"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "amide",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "m",
-        "word": "aide"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "d"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "amidst",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "midst"
-      },
-      {
-        "letter": "m"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "d"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "amine",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "mine"
-      },
-      {
-        "letter": "m"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "ammine",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "m",
-        "word": "amine"
-      },
-      {
-        "letter": "m",
-        "word": "amine"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "amnion",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "m",
-        "word": "anion"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "n"
-      }
-    ]
-  },
-  {
-    "word": "amoebae",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "m"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "b"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "e",
-        "word": "amoeba"
-      }
-    ]
-  },
-  {
-    "word": "amoral",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "moral"
-      },
-      {
-        "letter": "m"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      }
-    ]
-  },
-  {
-    "word": "amount",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "mount"
-      },
-      {
-        "letter": "m"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "amp",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "m"
-      },
-      {
-        "letter": "p",
-        "word": "am"
-      }
-    ]
-  },
-  {
-    "word": "amuck",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "muck"
-      },
-      {
-        "letter": "m"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "k"
-      }
-    ]
-  },
-  {
-    "word": "amuse",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "muse"
-      },
-      {
-        "letter": "m"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "amusing",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "musing"
-      },
-      {
-        "letter": "m"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "ancon",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "c",
-        "word": "anon"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "n"
-      }
-    ]
-  },
-  {
-    "word": "anew",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "new"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "w"
-      }
-    ]
-  },
-  {
-    "word": "angora",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n",
-        "word": "agora"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "a"
-      }
-    ]
-  },
-  {
-    "word": "anguish",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n",
-        "word": "aguish"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "h"
-      }
-    ]
-  },
-  {
-    "word": "animal",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "m"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l",
-        "word": "anima"
-      }
-    ]
-  },
-  {
-    "word": "anion",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "i",
-        "word": "anon"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "n"
-      }
-    ]
-  },
-  {
-    "word": "anklet",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "k"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "t",
-        "word": "ankle"
-      }
-    ]
-  },
-  {
-    "word": "annexe",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "x"
-      },
-      {
-        "letter": "e",
-        "word": "annex"
-      }
-    ]
-  },
-  {
-    "word": "annual",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "a",
-        "word": "annul"
-      },
-      {
-        "letter": "l"
-      }
-    ]
-  },
-  {
-    "word": "annuli",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "i",
-        "word": "annul"
-      }
-    ]
-  },
-  {
-    "word": "anodal",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "nodal"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "d"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      }
-    ]
-  },
-  {
-    "word": "anode",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "node"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "d"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "anon",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "non"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "n"
-      }
-    ]
-  },
-  {
-    "word": "ant",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n",
-        "word": "at"
-      },
-      {
-        "letter": "t",
-        "word": "an"
-      }
-    ]
-  },
-  {
-    "word": "ante",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n",
-        "word": "ate"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "e",
-        "word": "ant"
-      }
-    ]
-  },
-  {
-    "word": "anti",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "i",
-        "word": "ant"
-      }
-    ]
-  },
-  {
-    "word": "antic",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "c",
-        "word": "anti"
-      }
-    ]
-  },
-  {
-    "word": "antonym",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "t",
-        "word": "anonym"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "y"
-      },
-      {
-        "letter": "m"
-      }
-    ]
-  },
-  {
-    "word": "aortal",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l",
-        "word": "aorta"
-      }
-    ]
-  },
-  {
-    "word": "aortic",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "o",
-        "word": "artic"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "c"
-      }
-    ]
-  },
-  {
-    "word": "apace",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "pace"
-      },
-      {
-        "letter": "p"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "apache",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "p"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "h",
-        "word": "apace"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "apart",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "part"
-      },
-      {
-        "letter": "p"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "apex",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "p"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "x",
-        "word": "ape"
-      }
-    ]
-  },
-  {
-    "word": "aphonic",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "phonic"
-      },
-      {
-        "letter": "p"
-      },
-      {
-        "letter": "h"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "c"
-      }
-    ]
-  },
-  {
-    "word": "apiece",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "piece"
-      },
-      {
-        "letter": "p"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "aping",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "ping"
-      },
-      {
-        "letter": "p"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "appeal",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "p"
-      },
-      {
-        "letter": "p"
-      },
-      {
-        "letter": "e",
-        "word": "appal"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      }
-    ]
-  },
-  {
-    "word": "apse",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "p"
-      },
-      {
-        "letter": "s",
-        "word": "ape"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "apt",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "p",
-        "word": "at"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "aqua",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "qua"
-      },
-      {
-        "letter": "q"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "a"
-      }
-    ]
-  },
-  {
-    "word": "arch",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "h",
-        "word": "arc"
-      }
-    ]
-  },
-  {
-    "word": "arching",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r",
-        "word": "aching"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "h",
-        "word": "arcing"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "arcing",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r",
-        "word": "acing"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "arcsine",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "c",
-        "word": "arsine"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "arctic",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "c",
-        "word": "artic"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "c"
-      }
-    ]
-  },
-  {
-    "word": "are",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "re"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "area",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "a",
-        "word": "are"
-      }
-    ]
-  },
-  {
-    "word": "arena",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "n",
-        "word": "area"
-      },
-      {
-        "letter": "a"
-      }
-    ]
-  },
-  {
-    "word": "argent",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r",
-        "word": "agent"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "argil",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "g",
-        "word": "aril"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "l"
-      }
-    ]
-  },
-  {
-    "word": "argue",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r",
-        "word": "ague"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "aright",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "right"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "h"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "aril",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r",
-        "word": "ail"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "l"
-      }
-    ]
-  },
-  {
-    "word": "arise",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "rise"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "i",
-        "word": "arse"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "arisen",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "risen"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "n",
-        "word": "arise"
-      }
-    ]
-  },
-  {
-    "word": "arising",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "rising"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "arm",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r",
-        "word": "am"
-      },
-      {
-        "letter": "m"
-      }
-    ]
-  },
-  {
-    "word": "armrest",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "m",
-        "word": "arrest"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "arose",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "rose"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "o",
-        "word": "arse"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "arouse",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "rouse"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "u",
-        "word": "arose"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "arse",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "s",
-        "word": "are"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "art",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r",
-        "word": "at"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "arte",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r",
-        "word": "ate"
-      },
-      {
-        "letter": "t",
-        "word": "are"
-      },
-      {
-        "letter": "e",
-        "word": "art"
-      }
-    ]
-  },
-  {
-    "word": "artiste",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "e",
-        "word": "artist"
-      }
-    ]
-  },
-  {
-    "word": "arum",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "rum"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "u",
-        "word": "arm"
-      },
-      {
-        "letter": "m"
-      }
-    ]
-  },
-  {
-    "word": "ascent",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "scent"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "ascetic",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "s",
-        "word": "acetic"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "c"
-      }
-    ]
-  },
-  {
-    "word": "ascribe",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "scribe"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "b"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "aseptic",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "septic"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "p"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "c"
-      }
-    ]
-  },
-  {
-    "word": "asexual",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "sexual"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "x"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      }
-    ]
-  },
-  {
-    "word": "ash",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "s",
-        "word": "ah"
-      },
-      {
-        "letter": "h"
-      }
-    ]
-  },
-  {
-    "word": "ashore",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "shore"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "h"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "aside",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "side"
-      },
-      {
-        "letter": "s",
-        "word": "aide"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "d"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "askew",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "skew"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "k"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "w"
-      }
-    ]
-  },
-  {
-    "word": "aslant",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "slant"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "asleep",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "sleep"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "p"
-      }
-    ]
-  },
-  {
-    "word": "aslope",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "slope"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "p"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "asocial",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "social"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      }
-    ]
-  },
-  {
-    "word": "aspic",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "spic"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "p"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "c"
-      }
-    ]
-  },
-  {
-    "word": "aspire",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "spire"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "p"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "asquint",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "squint"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "q"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "assail",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "l",
-        "word": "assai"
-      }
-    ]
-  },
-  {
-    "word": "assent",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "n",
-        "word": "asset"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "assert",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "r",
-        "word": "asset"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "astern",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "stern"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "n"
-      }
-    ]
-  },
-  {
-    "word": "astride",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "stride"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "d"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "async",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "sync"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "y"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "c"
-      }
-    ]
-  },
-  {
-    "word": "ataman",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "a",
-        "word": "atman"
-      },
-      {
-        "letter": "m"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n"
-      }
-    ]
-  },
-  {
-    "word": "ate",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "e",
-        "word": "at"
-      }
-    ]
-  },
-  {
-    "word": "atheism",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "theism"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "h"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "m"
-      }
-    ]
-  },
-  {
-    "word": "atheist",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "theist"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "h"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "athirst",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "thirst"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "h"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "athwart",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "thwart"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "h"
-      },
-      {
-        "letter": "w"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "atilt",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "tilt"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "atoll",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "toll"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "l"
-      }
-    ]
-  },
-  {
-    "word": "atom",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "tom"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "m"
-      }
-    ]
-  },
-  {
-    "word": "atonal",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "tonal"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      }
-    ]
-  },
-  {
-    "word": "atone",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "tone"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "atoning",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "toning"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "atop",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "top"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "p"
-      }
-    ]
-  },
-  {
-    "word": "attaint",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "t",
-        "word": "attain"
-      }
-    ]
-  },
-  {
-    "word": "auction",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "u",
-        "word": "action"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "n"
-      }
-    ]
-  },
-  {
-    "word": "aunt",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "u",
-        "word": "ant"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "auntie",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "untie"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "aural",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l",
-        "word": "aura"
-      }
-    ]
-  },
-  {
-    "word": "aureole",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "u",
-        "word": "areole"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "austral",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "u",
-        "word": "astral"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      }
-    ]
-  },
-  {
-    "word": "avenue",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "venue"
-      },
-      {
-        "letter": "v"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "averse",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "verse"
-      },
-      {
-        "letter": "v"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "avouch",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "vouch"
-      },
-      {
-        "letter": "v"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "h"
-      }
-    ]
-  },
-  {
-    "word": "avow",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "vow"
-      },
-      {
-        "letter": "v"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "w"
-      }
-    ]
-  },
-  {
-    "word": "await",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "wait"
-      },
-      {
-        "letter": "w"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "awake",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "wake"
-      },
-      {
-        "letter": "w"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "k"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "awaken",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "waken"
-      },
-      {
-        "letter": "w"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "k"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "n",
-        "word": "awake"
-      }
-    ]
-  },
-  {
-    "word": "awaking",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "waking"
-      },
-      {
-        "letter": "w"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "k"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "aware",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "ware"
-      },
-      {
-        "letter": "w"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "awash",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "wash"
-      },
-      {
-        "letter": "w"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "h"
-      }
-    ]
-  },
-  {
-    "word": "awe",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "we"
-      },
-      {
-        "letter": "w"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "aweigh",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "weigh"
-      },
-      {
-        "letter": "w"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "h"
-      }
-    ]
-  },
-  {
-    "word": "awheel",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "wheel"
-      },
-      {
-        "letter": "w"
-      },
-      {
-        "letter": "h"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "l"
-      }
-    ]
-  },
-  {
-    "word": "awhile",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "while"
-      },
-      {
-        "letter": "w"
-      },
-      {
-        "letter": "h"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "awhirl",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "whirl"
-      },
-      {
-        "letter": "w"
-      },
-      {
-        "letter": "h"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "l"
-      }
-    ]
-  },
-  {
-    "word": "awing",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "wing"
-      },
-      {
-        "letter": "w"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "awn",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "w",
-        "word": "an"
-      },
-      {
-        "letter": "n"
-      }
-    ]
-  },
-  {
-    "word": "awning",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "w"
-      },
-      {
-        "letter": "n",
-        "word": "awing"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "awoke",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "woke"
-      },
-      {
-        "letter": "w"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "k"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "awoken",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "woken"
-      },
-      {
-        "letter": "w"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "k"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "n",
-        "word": "awoke"
-      }
-    ]
-  },
-  {
-    "word": "axel",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "x"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "l",
-        "word": "axe"
-      }
-    ]
-  },
-  {
-    "word": "axle",
-    "validRemovals": [
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "x",
-        "word": "ale"
-      },
-      {
-        "letter": "l",
-        "word": "axe"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "ayah",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "yah"
-      },
-      {
-        "letter": "y"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "h"
-      }
-    ]
-  },
-  {
-    "word": "aye",
-    "validRemovals": [
-      {
-        "letter": "a",
-        "word": "ye"
-      },
-      {
-        "letter": "y"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
     "word": "babying",
     "validRemovals": [
       {
@@ -5225,21 +75,6 @@
     ]
   },
   {
-    "word": "bah",
-    "validRemovals": [
-      {
-        "letter": "b",
-        "word": "ah"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "h"
-      }
-    ]
-  },
-  {
     "word": "baht",
     "validRemovals": [
       {
@@ -5259,29 +94,10 @@
     ]
   },
   {
-    "word": "bail",
-    "validRemovals": [
-      {
-        "letter": "b",
-        "word": "ail"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "l"
-      }
-    ]
-  },
-  {
     "word": "bailing",
     "validRemovals": [
       {
-        "letter": "b",
-        "word": "ailing"
+        "letter": "b"
       },
       {
         "letter": "a"
@@ -5379,24 +195,6 @@
     ]
   },
   {
-    "word": "bale",
-    "validRemovals": [
-      {
-        "letter": "b",
-        "word": "ale"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
     "word": "balking",
     "validRemovals": [
       {
@@ -5425,24 +223,6 @@
     ]
   },
   {
-    "word": "ball",
-    "validRemovals": [
-      {
-        "letter": "b",
-        "word": "all"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "l"
-      }
-    ]
-  },
-  {
     "word": "balling",
     "validRemovals": [
       {
@@ -5467,30 +247,6 @@
       },
       {
         "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "ballot",
-    "validRemovals": [
-      {
-        "letter": "b",
-        "word": "allot"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "t"
       }
     ]
   },
@@ -5533,57 +289,6 @@
       {
         "letter": "m",
         "word": "balsa"
-      }
-    ]
-  },
-  {
-    "word": "bam",
-    "validRemovals": [
-      {
-        "letter": "b",
-        "word": "am"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "m"
-      }
-    ]
-  },
-  {
-    "word": "ban",
-    "validRemovals": [
-      {
-        "letter": "b",
-        "word": "an"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n"
-      }
-    ]
-  },
-  {
-    "word": "banal",
-    "validRemovals": [
-      {
-        "letter": "b",
-        "word": "anal"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
       }
     ]
   },
@@ -5670,30 +375,6 @@
     ]
   },
   {
-    "word": "bangle",
-    "validRemovals": [
-      {
-        "letter": "b",
-        "word": "angle"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
     "word": "bank",
     "validRemovals": [
       {
@@ -5735,24 +416,6 @@
       },
       {
         "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "bare",
-    "validRemovals": [
-      {
-        "letter": "b",
-        "word": "are"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "e"
       }
     ]
   },
@@ -5850,24 +513,6 @@
       },
       {
         "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "bark",
-    "validRemovals": [
-      {
-        "letter": "b",
-        "word": "ark"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "k"
       }
     ]
   },
@@ -5990,33 +635,6 @@
     ]
   },
   {
-    "word": "barrack",
-    "validRemovals": [
-      {
-        "letter": "b",
-        "word": "arrack"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "k"
-      }
-    ]
-  },
-  {
     "word": "barring",
     "validRemovals": [
       {
@@ -6041,30 +659,6 @@
       },
       {
         "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "barrow",
-    "validRemovals": [
-      {
-        "letter": "b",
-        "word": "arrow"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "w"
       }
     ]
   },
@@ -6120,8 +714,7 @@
     "word": "bash",
     "validRemovals": [
       {
-        "letter": "b",
-        "word": "ash"
+        "letter": "b"
       },
       {
         "letter": "a"
@@ -6208,29 +801,10 @@
     ]
   },
   {
-    "word": "bask",
-    "validRemovals": [
-      {
-        "letter": "b",
-        "word": "ask"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "k"
-      }
-    ]
-  },
-  {
     "word": "basking",
     "validRemovals": [
       {
-        "letter": "b",
-        "word": "asking"
+        "letter": "b"
       },
       {
         "letter": "a"
@@ -6251,57 +825,6 @@
       },
       {
         "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "basset",
-    "validRemovals": [
-      {
-        "letter": "b",
-        "word": "asset"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "bassist",
-    "validRemovals": [
-      {
-        "letter": "b",
-        "word": "assist"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "t"
       }
     ]
   },
@@ -6356,21 +879,6 @@
     ]
   },
   {
-    "word": "bat",
-    "validRemovals": [
-      {
-        "letter": "b",
-        "word": "at"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
     "word": "batch",
     "validRemovals": [
       {
@@ -6395,8 +903,7 @@
     "word": "bate",
     "validRemovals": [
       {
-        "letter": "b",
-        "word": "ate"
+        "letter": "b"
       },
       {
         "letter": "a"
@@ -6475,30 +982,6 @@
       },
       {
         "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "batman",
-    "validRemovals": [
-      {
-        "letter": "b",
-        "word": "atman"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "m"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n"
       }
     ]
   },
@@ -6603,24 +1086,6 @@
       },
       {
         "letter": "k"
-      }
-    ]
-  },
-  {
-    "word": "bawl",
-    "validRemovals": [
-      {
-        "letter": "b",
-        "word": "awl"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "w"
-      },
-      {
-        "letter": "l"
       }
     ]
   },
@@ -12637,21 +7102,6 @@
     ]
   },
   {
-    "word": "cab",
-    "validRemovals": [
-      {
-        "letter": "c",
-        "word": "ab"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "b"
-      }
-    ]
-  },
-  {
     "word": "cabala",
     "validRemovals": [
       {
@@ -12704,48 +7154,6 @@
     ]
   },
   {
-    "word": "cable",
-    "validRemovals": [
-      {
-        "letter": "c",
-        "word": "able"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "b"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "cache",
-    "validRemovals": [
-      {
-        "letter": "c",
-        "word": "ache"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "h"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
     "word": "cachet",
     "validRemovals": [
       {
@@ -12766,33 +7174,6 @@
       {
         "letter": "t",
         "word": "cache"
-      }
-    ]
-  },
-  {
-    "word": "caching",
-    "validRemovals": [
-      {
-        "letter": "c",
-        "word": "aching"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "h"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
       }
     ]
   },
@@ -12890,48 +7271,6 @@
     ]
   },
   {
-    "word": "cage",
-    "validRemovals": [
-      {
-        "letter": "c",
-        "word": "age"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "caging",
-    "validRemovals": [
-      {
-        "letter": "c",
-        "word": "aging"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
     "word": "calash",
     "validRemovals": [
       {
@@ -12956,24 +7295,6 @@
     ]
   },
   {
-    "word": "call",
-    "validRemovals": [
-      {
-        "letter": "c",
-        "word": "all"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "l"
-      }
-    ]
-  },
-  {
     "word": "calla",
     "validRemovals": [
       {
@@ -12991,30 +7312,6 @@
       {
         "letter": "a",
         "word": "call"
-      }
-    ]
-  },
-  {
-    "word": "callow",
-    "validRemovals": [
-      {
-        "letter": "c",
-        "word": "allow"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "w"
       }
     ]
   },
@@ -13088,8 +7385,7 @@
     "word": "cam",
     "validRemovals": [
       {
-        "letter": "c",
-        "word": "am"
+        "letter": "c"
       },
       {
         "letter": "a",
@@ -13191,8 +7487,7 @@
     "word": "camp",
     "validRemovals": [
       {
-        "letter": "c",
-        "word": "amp"
+        "letter": "c"
       },
       {
         "letter": "a"
@@ -13226,42 +7521,6 @@
       {
         "letter": "o",
         "word": "camp"
-      }
-    ]
-  },
-  {
-    "word": "can",
-    "validRemovals": [
-      {
-        "letter": "c",
-        "word": "an"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n"
-      }
-    ]
-  },
-  {
-    "word": "canal",
-    "validRemovals": [
-      {
-        "letter": "c",
-        "word": "anal"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
       }
     ]
   },
@@ -13385,27 +7644,6 @@
     ]
   },
   {
-    "word": "canon",
-    "validRemovals": [
-      {
-        "letter": "c",
-        "word": "anon"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "n"
-      }
-    ]
-  },
-  {
     "word": "canst",
     "validRemovals": [
       {
@@ -13431,8 +7669,7 @@
     "word": "cant",
     "validRemovals": [
       {
-        "letter": "c",
-        "word": "ant"
+        "letter": "c"
       },
       {
         "letter": "a"
@@ -13548,8 +7785,7 @@
     "word": "cape",
     "validRemovals": [
       {
-        "letter": "c",
-        "word": "ape"
+        "letter": "c"
       },
       {
         "letter": "a"
@@ -13705,24 +7941,6 @@
     ]
   },
   {
-    "word": "care",
-    "validRemovals": [
-      {
-        "letter": "c",
-        "word": "are"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
     "word": "caret",
     "validRemovals": [
       {
@@ -13843,33 +8061,6 @@
     ]
   },
   {
-    "word": "carouse",
-    "validRemovals": [
-      {
-        "letter": "c",
-        "word": "arouse"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
     "word": "carp",
     "validRemovals": [
       {
@@ -13939,38 +8130,10 @@
     ]
   },
   {
-    "word": "carrack",
-    "validRemovals": [
-      {
-        "letter": "c",
-        "word": "arrack"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "k"
-      }
-    ]
-  },
-  {
     "word": "cart",
     "validRemovals": [
       {
-        "letter": "c",
-        "word": "art"
+        "letter": "c"
       },
       {
         "letter": "a"
@@ -13988,8 +8151,7 @@
     "word": "carte",
     "validRemovals": [
       {
-        "letter": "c",
-        "word": "arte"
+        "letter": "c"
       },
       {
         "letter": "a"
@@ -14028,33 +8190,6 @@
       {
         "letter": "l",
         "word": "carte"
-      }
-    ]
-  },
-  {
-    "word": "cartful",
-    "validRemovals": [
-      {
-        "letter": "c",
-        "word": "artful"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "f"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "l"
       }
     ]
   },
@@ -14212,24 +8347,6 @@
     ]
   },
   {
-    "word": "cash",
-    "validRemovals": [
-      {
-        "letter": "c",
-        "word": "ash"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "h"
-      }
-    ]
-  },
-  {
     "word": "cashing",
     "validRemovals": [
       {
@@ -14253,24 +8370,6 @@
       },
       {
         "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "cask",
-    "validRemovals": [
-      {
-        "letter": "c",
-        "word": "ask"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "k"
       }
     ]
   },
@@ -14393,21 +8492,6 @@
     ]
   },
   {
-    "word": "cat",
-    "validRemovals": [
-      {
-        "letter": "c",
-        "word": "at"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
     "word": "cattalo",
     "validRemovals": [
       {
@@ -14432,30 +8516,6 @@
       },
       {
         "letter": "o"
-      }
-    ]
-  },
-  {
-    "word": "caught",
-    "validRemovals": [
-      {
-        "letter": "c",
-        "word": "aught"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "h"
-      },
-      {
-        "letter": "t"
       }
     ]
   },
@@ -14516,30 +8576,6 @@
       },
       {
         "letter": "s"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "cawing",
-    "validRemovals": [
-      {
-        "letter": "c",
-        "word": "awing"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "w"
       },
       {
         "letter": "i"
@@ -22087,8 +16123,7 @@
     "word": "dab",
     "validRemovals": [
       {
-        "letter": "d",
-        "word": "ab"
+        "letter": "d"
       },
       {
         "letter": "a",
@@ -22096,42 +16131,6 @@
       },
       {
         "letter": "b"
-      }
-    ]
-  },
-  {
-    "word": "dace",
-    "validRemovals": [
-      {
-        "letter": "d",
-        "word": "ace"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "dado",
-    "validRemovals": [
-      {
-        "letter": "d",
-        "word": "ado"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "d"
-      },
-      {
-        "letter": "o"
       }
     ]
   },
@@ -22160,45 +16159,6 @@
     ]
   },
   {
-    "word": "daft",
-    "validRemovals": [
-      {
-        "letter": "d",
-        "word": "aft"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "f"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "dalai",
-    "validRemovals": [
-      {
-        "letter": "d",
-        "word": "alai"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "i"
-      }
-    ]
-  },
-  {
     "word": "dalasi",
     "validRemovals": [
       {
@@ -22219,39 +16179,6 @@
       },
       {
         "letter": "i"
-      }
-    ]
-  },
-  {
-    "word": "dale",
-    "validRemovals": [
-      {
-        "letter": "d",
-        "word": "ale"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "dam",
-    "validRemovals": [
-      {
-        "letter": "d",
-        "word": "am"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "m"
       }
     ]
   },
@@ -22295,8 +16222,7 @@
     "word": "damp",
     "validRemovals": [
       {
-        "letter": "d",
-        "word": "amp"
+        "letter": "d"
       },
       {
         "letter": "a"
@@ -22328,90 +16254,6 @@
       },
       {
         "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "dangle",
-    "validRemovals": [
-      {
-        "letter": "d",
-        "word": "angle"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "dapple",
-    "validRemovals": [
-      {
-        "letter": "d",
-        "word": "apple"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "p"
-      },
-      {
-        "letter": "p"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "dare",
-    "validRemovals": [
-      {
-        "letter": "d",
-        "word": "are"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "dark",
-    "validRemovals": [
-      {
-        "letter": "d",
-        "word": "ark"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "k"
       }
     ]
   },
@@ -22470,24 +16312,6 @@
     ]
   },
   {
-    "word": "dart",
-    "validRemovals": [
-      {
-        "letter": "d",
-        "word": "art"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
     "word": "darting",
     "validRemovals": [
       {
@@ -22516,42 +16340,6 @@
     ]
   },
   {
-    "word": "dash",
-    "validRemovals": [
-      {
-        "letter": "d",
-        "word": "ash"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "h"
-      }
-    ]
-  },
-  {
-    "word": "date",
-    "validRemovals": [
-      {
-        "letter": "d",
-        "word": "ate"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
     "word": "daub",
     "validRemovals": [
       {
@@ -22567,72 +16355,6 @@
       },
       {
         "letter": "b"
-      }
-    ]
-  },
-  {
-    "word": "daunt",
-    "validRemovals": [
-      {
-        "letter": "d",
-        "word": "aunt"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "dawn",
-    "validRemovals": [
-      {
-        "letter": "d",
-        "word": "awn"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "w"
-      },
-      {
-        "letter": "n"
-      }
-    ]
-  },
-  {
-    "word": "dawning",
-    "validRemovals": [
-      {
-        "letter": "d",
-        "word": "awning"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "w"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
       }
     ]
   },
@@ -26697,8 +20419,7 @@
     "word": "eaglet",
     "validRemovals": [
       {
-        "letter": "e",
-        "word": "aglet"
+        "letter": "e"
       },
       {
         "letter": "a"
@@ -26812,33 +20533,6 @@
     ]
   },
   {
-    "word": "eastern",
-    "validRemovals": [
-      {
-        "letter": "e",
-        "word": "astern"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "n"
-      }
-    ]
-  },
-  {
     "word": "easting",
     "validRemovals": [
       {
@@ -26870,8 +20564,7 @@
     "word": "eat",
     "validRemovals": [
       {
-        "letter": "e",
-        "word": "at"
+        "letter": "e"
       },
       {
         "letter": "a",
@@ -28464,60 +22157,6 @@
     ]
   },
   {
-    "word": "fab",
-    "validRemovals": [
-      {
-        "letter": "f",
-        "word": "ab"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "b"
-      }
-    ]
-  },
-  {
-    "word": "fable",
-    "validRemovals": [
-      {
-        "letter": "f",
-        "word": "able"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "b"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "face",
-    "validRemovals": [
-      {
-        "letter": "f",
-        "word": "ace"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
     "word": "facet",
     "validRemovals": [
       {
@@ -28564,35 +22203,10 @@
     ]
   },
   {
-    "word": "facing",
-    "validRemovals": [
-      {
-        "letter": "f",
-        "word": "acing"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
     "word": "fact",
     "validRemovals": [
       {
-        "letter": "f",
-        "word": "act"
+        "letter": "f"
       },
       {
         "letter": "a"
@@ -28603,33 +22217,6 @@
       },
       {
         "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "faction",
-    "validRemovals": [
-      {
-        "letter": "f",
-        "word": "action"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "n"
       }
     ]
   },
@@ -28655,80 +22242,10 @@
     ]
   },
   {
-    "word": "factual",
-    "validRemovals": [
-      {
-        "letter": "f",
-        "word": "actual"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      }
-    ]
-  },
-  {
-    "word": "faerie",
-    "validRemovals": [
-      {
-        "letter": "f",
-        "word": "aerie"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "fail",
-    "validRemovals": [
-      {
-        "letter": "f",
-        "word": "ail"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "l"
-      }
-    ]
-  },
-  {
     "word": "failing",
     "validRemovals": [
       {
-        "letter": "f",
-        "word": "ailing"
+        "letter": "f"
       },
       {
         "letter": "a",
@@ -28755,8 +22272,7 @@
     "word": "fain",
     "validRemovals": [
       {
-        "letter": "f",
-        "word": "ain"
+        "letter": "f"
       },
       {
         "letter": "a",
@@ -28796,8 +22312,7 @@
     "word": "fairing",
     "validRemovals": [
       {
-        "letter": "f",
-        "word": "airing"
+        "letter": "f"
       },
       {
         "letter": "a",
@@ -28818,87 +22333,6 @@
       },
       {
         "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "fall",
-    "validRemovals": [
-      {
-        "letter": "f",
-        "word": "all"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "l"
-      }
-    ]
-  },
-  {
-    "word": "fallow",
-    "validRemovals": [
-      {
-        "letter": "f",
-        "word": "allow"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "w"
-      }
-    ]
-  },
-  {
-    "word": "famine",
-    "validRemovals": [
-      {
-        "letter": "f",
-        "word": "amine"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "m"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "fan",
-    "validRemovals": [
-      {
-        "letter": "f",
-        "word": "an"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n"
       }
     ]
   },
@@ -28940,27 +22374,6 @@
     ]
   },
   {
-    "word": "fanon",
-    "validRemovals": [
-      {
-        "letter": "f",
-        "word": "anon"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "n"
-      }
-    ]
-  },
-  {
     "word": "farce",
     "validRemovals": [
       {
@@ -28986,8 +22399,7 @@
     "word": "farcing",
     "validRemovals": [
       {
-        "letter": "f",
-        "word": "arcing"
+        "letter": "f"
       },
       {
         "letter": "a"
@@ -29012,47 +22424,10 @@
     ]
   },
   {
-    "word": "fare",
-    "validRemovals": [
-      {
-        "letter": "f",
-        "word": "are"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "farm",
-    "validRemovals": [
-      {
-        "letter": "f",
-        "word": "arm"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "m"
-      }
-    ]
-  },
-  {
     "word": "farming",
     "validRemovals": [
       {
-        "letter": "f",
-        "word": "arming"
+        "letter": "f"
       },
       {
         "letter": "a"
@@ -29095,35 +22470,10 @@
     ]
   },
   {
-    "word": "farrow",
-    "validRemovals": [
-      {
-        "letter": "f",
-        "word": "arrow"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "w"
-      }
-    ]
-  },
-  {
     "word": "fart",
     "validRemovals": [
       {
-        "letter": "f",
-        "word": "art"
+        "letter": "f"
       },
       {
         "letter": "a"
@@ -29210,8 +22560,7 @@
     "word": "fat",
     "validRemovals": [
       {
-        "letter": "f",
-        "word": "at"
+        "letter": "f"
       },
       {
         "letter": "a",
@@ -29226,8 +22575,7 @@
     "word": "fate",
     "validRemovals": [
       {
-        "letter": "f",
-        "word": "ate"
+        "letter": "f"
       },
       {
         "letter": "a"
@@ -29265,33 +22613,6 @@
       },
       {
         "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "fattest",
-    "validRemovals": [
-      {
-        "letter": "f",
-        "word": "attest"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "t"
       }
     ]
   },
@@ -29415,8 +22736,7 @@
     "word": "faux",
     "validRemovals": [
       {
-        "letter": "f",
-        "word": "aux"
+        "letter": "f"
       },
       {
         "letter": "a"
@@ -29434,8 +22754,7 @@
     "word": "fawn",
     "validRemovals": [
       {
-        "letter": "f",
-        "word": "awn"
+        "letter": "f"
       },
       {
         "letter": "a"
@@ -29446,33 +22765,6 @@
       },
       {
         "letter": "n"
-      }
-    ]
-  },
-  {
-    "word": "fawning",
-    "validRemovals": [
-      {
-        "letter": "f",
-        "word": "awning"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "w"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
       }
     ]
   },
@@ -33336,21 +26628,6 @@
     ]
   },
   {
-    "word": "gab",
-    "validRemovals": [
-      {
-        "letter": "g",
-        "word": "ab"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "b"
-      }
-    ]
-  },
-  {
     "word": "gabble",
     "validRemovals": [
       {
@@ -33379,8 +26656,7 @@
     "word": "gable",
     "validRemovals": [
       {
-        "letter": "g",
-        "word": "able"
+        "letter": "g"
       },
       {
         "letter": "a"
@@ -33394,33 +26670,6 @@
       },
       {
         "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "gadding",
-    "validRemovals": [
-      {
-        "letter": "g",
-        "word": "adding"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "d"
-      },
-      {
-        "letter": "d"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
       }
     ]
   },
@@ -33449,8 +26698,7 @@
     "word": "gaga",
     "validRemovals": [
       {
-        "letter": "g",
-        "word": "aga"
+        "letter": "g"
       },
       {
         "letter": "a"
@@ -33468,8 +26716,7 @@
     "word": "gage",
     "validRemovals": [
       {
-        "letter": "g",
-        "word": "age"
+        "letter": "g"
       },
       {
         "letter": "a"
@@ -33487,8 +26734,7 @@
     "word": "gain",
     "validRemovals": [
       {
-        "letter": "g",
-        "word": "ain"
+        "letter": "g"
       },
       {
         "letter": "a",
@@ -33525,8 +26771,7 @@
     "word": "gala",
     "validRemovals": [
       {
-        "letter": "g",
-        "word": "ala"
+        "letter": "g"
       },
       {
         "letter": "a"
@@ -33544,8 +26789,7 @@
     "word": "gale",
     "validRemovals": [
       {
-        "letter": "g",
-        "word": "ale"
+        "letter": "g"
       },
       {
         "letter": "a"
@@ -33563,8 +26807,7 @@
     "word": "gall",
     "validRemovals": [
       {
-        "letter": "g",
-        "word": "all"
+        "letter": "g"
       },
       {
         "letter": "a"
@@ -33635,35 +26878,10 @@
     ]
   },
   {
-    "word": "gambit",
-    "validRemovals": [
-      {
-        "letter": "g",
-        "word": "ambit"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "m"
-      },
-      {
-        "letter": "b"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
     "word": "gamble",
     "validRemovals": [
       {
-        "letter": "g",
-        "word": "amble"
+        "letter": "g"
       },
       {
         "letter": "a"
@@ -33708,8 +26926,7 @@
     "word": "gamine",
     "validRemovals": [
       {
-        "letter": "g",
-        "word": "amine"
+        "letter": "g"
       },
       {
         "letter": "a"
@@ -33785,8 +27002,7 @@
     "word": "gamp",
     "validRemovals": [
       {
-        "letter": "g",
-        "word": "amp"
+        "letter": "g"
       },
       {
         "letter": "a"
@@ -33840,8 +27056,7 @@
     "word": "gape",
     "validRemovals": [
       {
-        "letter": "g",
-        "word": "ape"
+        "letter": "g"
       },
       {
         "letter": "a"
@@ -33852,30 +27067,6 @@
       {
         "letter": "e",
         "word": "gap"
-      }
-    ]
-  },
-  {
-    "word": "gaping",
-    "validRemovals": [
-      {
-        "letter": "g",
-        "word": "aping"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "p"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
       }
     ]
   },
@@ -34031,29 +27222,10 @@
     ]
   },
   {
-    "word": "gash",
-    "validRemovals": [
-      {
-        "letter": "g",
-        "word": "ash"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "h"
-      }
-    ]
-  },
-  {
     "word": "gasp",
     "validRemovals": [
       {
-        "letter": "g",
-        "word": "asp"
+        "letter": "g"
       },
       {
         "letter": "a"
@@ -34095,26 +27267,10 @@
     ]
   },
   {
-    "word": "gat",
-    "validRemovals": [
-      {
-        "letter": "g",
-        "word": "at"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
     "word": "gate",
     "validRemovals": [
       {
-        "letter": "g",
-        "word": "ate"
+        "letter": "g"
       },
       {
         "letter": "a"
@@ -34173,27 +27329,6 @@
       },
       {
         "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "gaunt",
-    "validRemovals": [
-      {
-        "letter": "g",
-        "word": "aunt"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "t"
       }
     ]
   },
@@ -37228,8 +30363,7 @@
     "word": "haft",
     "validRemovals": [
       {
-        "letter": "h",
-        "word": "aft"
+        "letter": "h"
       },
       {
         "letter": "a"
@@ -37262,8 +30396,7 @@
     "word": "hah",
     "validRemovals": [
       {
-        "letter": "h",
-        "word": "ah"
+        "letter": "h"
       },
       {
         "letter": "a"
@@ -37275,29 +30408,10 @@
     ]
   },
   {
-    "word": "hail",
-    "validRemovals": [
-      {
-        "letter": "h",
-        "word": "ail"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "l"
-      }
-    ]
-  },
-  {
     "word": "hailing",
     "validRemovals": [
       {
-        "letter": "h",
-        "word": "ailing"
+        "letter": "h"
       },
       {
         "letter": "a"
@@ -37317,42 +30431,6 @@
       },
       {
         "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "hale",
-    "validRemovals": [
-      {
-        "letter": "h",
-        "word": "ale"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "hall",
-    "validRemovals": [
-      {
-        "letter": "h",
-        "word": "all"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "l"
       }
     ]
   },
@@ -37408,8 +30486,7 @@
     "word": "hallow",
     "validRemovals": [
       {
-        "letter": "h",
-        "word": "allow"
+        "letter": "h"
       },
       {
         "letter": "a"
@@ -37433,8 +30510,7 @@
     "word": "halt",
     "validRemovals": [
       {
-        "letter": "h",
-        "word": "alt"
+        "letter": "h"
       },
       {
         "letter": "a"
@@ -37530,8 +30606,7 @@
     "word": "ham",
     "validRemovals": [
       {
-        "letter": "h",
-        "word": "am"
+        "letter": "h"
       },
       {
         "letter": "a"
@@ -37603,24 +30678,6 @@
     ]
   },
   {
-    "word": "hare",
-    "validRemovals": [
-      {
-        "letter": "h",
-        "word": "are"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
     "word": "harem",
     "validRemovals": [
       {
@@ -37643,29 +30700,10 @@
     ]
   },
   {
-    "word": "hark",
-    "validRemovals": [
-      {
-        "letter": "h",
-        "word": "ark"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "k"
-      }
-    ]
-  },
-  {
     "word": "harm",
     "validRemovals": [
       {
-        "letter": "h",
-        "word": "arm"
+        "letter": "h"
       },
       {
         "letter": "a"
@@ -37676,60 +30714,6 @@
       },
       {
         "letter": "m"
-      }
-    ]
-  },
-  {
-    "word": "harmful",
-    "validRemovals": [
-      {
-        "letter": "h",
-        "word": "armful"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "m"
-      },
-      {
-        "letter": "f"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "l"
-      }
-    ]
-  },
-  {
-    "word": "harming",
-    "validRemovals": [
-      {
-        "letter": "h",
-        "word": "arming"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "m"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
       }
     ]
   },
@@ -37748,30 +30732,6 @@
       },
       {
         "letter": "p"
-      }
-    ]
-  },
-  {
-    "word": "harrow",
-    "validRemovals": [
-      {
-        "letter": "h",
-        "word": "arrow"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "w"
       }
     ]
   },
@@ -37800,8 +30760,7 @@
     "word": "hart",
     "validRemovals": [
       {
-        "letter": "h",
-        "word": "art"
+        "letter": "h"
       },
       {
         "letter": "a"
@@ -37819,8 +30778,7 @@
     "word": "hash",
     "validRemovals": [
       {
-        "letter": "h",
-        "word": "ash"
+        "letter": "h"
       },
       {
         "letter": "a"
@@ -37838,8 +30796,7 @@
     "word": "hasp",
     "validRemovals": [
       {
-        "letter": "h",
-        "word": "asp"
+        "letter": "h"
       },
       {
         "letter": "a"
@@ -37948,8 +30905,7 @@
     "word": "hat",
     "validRemovals": [
       {
-        "letter": "h",
-        "word": "at"
+        "letter": "h"
       },
       {
         "letter": "a"
@@ -37985,8 +30941,7 @@
     "word": "hate",
     "validRemovals": [
       {
-        "letter": "h",
-        "word": "ate"
+        "letter": "h"
       },
       {
         "letter": "a"
@@ -38095,8 +31050,7 @@
     "word": "haunt",
     "validRemovals": [
       {
-        "letter": "h",
-        "word": "aunt"
+        "letter": "h"
       },
       {
         "letter": "a",
@@ -38167,30 +31121,6 @@
       {
         "letter": "w",
         "word": "ha"
-      }
-    ]
-  },
-  {
-    "word": "hawing",
-    "validRemovals": [
-      {
-        "letter": "h",
-        "word": "awing"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "w"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
       }
     ]
   },
@@ -41086,26 +34016,10 @@
     ]
   },
   {
-    "word": "jab",
-    "validRemovals": [
-      {
-        "letter": "j",
-        "word": "ab"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "b"
-      }
-    ]
-  },
-  {
     "word": "jail",
     "validRemovals": [
       {
-        "letter": "j",
-        "word": "ail"
+        "letter": "j"
       },
       {
         "letter": "a"
@@ -41116,48 +34030,6 @@
       {
         "letter": "l",
         "word": "jai"
-      }
-    ]
-  },
-  {
-    "word": "jailing",
-    "validRemovals": [
-      {
-        "letter": "j",
-        "word": "ailing"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "jam",
-    "validRemovals": [
-      {
-        "letter": "j",
-        "word": "am"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "m"
       }
     ]
   },
@@ -41177,117 +34049,6 @@
       {
         "letter": "b",
         "word": "jam"
-      }
-    ]
-  },
-  {
-    "word": "jangle",
-    "validRemovals": [
-      {
-        "letter": "j",
-        "word": "angle"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "jape",
-    "validRemovals": [
-      {
-        "letter": "j",
-        "word": "ape"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "p"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "japing",
-    "validRemovals": [
-      {
-        "letter": "j",
-        "word": "aping"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "p"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "jargon",
-    "validRemovals": [
-      {
-        "letter": "j",
-        "word": "argon"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "n"
-      }
-    ]
-  },
-  {
-    "word": "jaunt",
-    "validRemovals": [
-      {
-        "letter": "j",
-        "word": "aunt"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "t"
       }
     ]
   },
@@ -41714,48 +34475,6 @@
     ]
   },
   {
-    "word": "kale",
-    "validRemovals": [
-      {
-        "letter": "k",
-        "word": "ale"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "kalong",
-    "validRemovals": [
-      {
-        "letter": "k",
-        "word": "along"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
     "word": "kanga",
     "validRemovals": [
       {
@@ -41818,24 +34537,6 @@
       {
         "letter": "e",
         "word": "karat"
-      }
-    ]
-  },
-  {
-    "word": "kart",
-    "validRemovals": [
-      {
-        "letter": "k",
-        "word": "art"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "t"
       }
     ]
   },
@@ -42647,8 +35348,7 @@
     "word": "lab",
     "validRemovals": [
       {
-        "letter": "l",
-        "word": "ab"
+        "letter": "l"
       },
       {
         "letter": "a",
@@ -42681,48 +35381,6 @@
       {
         "letter": "l",
         "word": "labia"
-      }
-    ]
-  },
-  {
-    "word": "lace",
-    "validRemovals": [
-      {
-        "letter": "l",
-        "word": "ace"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "lacing",
-    "validRemovals": [
-      {
-        "letter": "l",
-        "word": "acing"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
       }
     ]
   },
@@ -42865,29 +35523,10 @@
     ]
   },
   {
-    "word": "lain",
-    "validRemovals": [
-      {
-        "letter": "l",
-        "word": "ain"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      }
-    ]
-  },
-  {
     "word": "lam",
     "validRemovals": [
       {
-        "letter": "l",
-        "word": "am"
+        "letter": "l"
       },
       {
         "letter": "a"
@@ -43012,8 +35651,7 @@
     "word": "lamp",
     "validRemovals": [
       {
-        "letter": "l",
-        "word": "amp"
+        "letter": "l"
       },
       {
         "letter": "a"
@@ -43171,27 +35809,6 @@
     ]
   },
   {
-    "word": "lapse",
-    "validRemovals": [
-      {
-        "letter": "l",
-        "word": "apse"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "p"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
     "word": "lapsing",
     "validRemovals": [
       {
@@ -43219,27 +35836,6 @@
     ]
   },
   {
-    "word": "larch",
-    "validRemovals": [
-      {
-        "letter": "l",
-        "word": "arch"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "h"
-      }
-    ]
-  },
-  {
     "word": "larding",
     "validRemovals": [
       {
@@ -43263,24 +35859,6 @@
       },
       {
         "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "lark",
-    "validRemovals": [
-      {
-        "letter": "l",
-        "word": "ark"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "k"
       }
     ]
   },
@@ -43350,24 +35928,6 @@
       {
         "letter": "l",
         "word": "larva"
-      }
-    ]
-  },
-  {
-    "word": "lash",
-    "validRemovals": [
-      {
-        "letter": "l",
-        "word": "ash"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "h"
       }
     ]
   },
@@ -43447,8 +36007,7 @@
     "word": "lat",
     "validRemovals": [
       {
-        "letter": "l",
-        "word": "at"
+        "letter": "l"
       },
       {
         "letter": "a"
@@ -43484,8 +36043,7 @@
     "word": "late",
     "validRemovals": [
       {
-        "letter": "l",
-        "word": "ate"
+        "letter": "l"
       },
       {
         "letter": "a"
@@ -43627,35 +36185,10 @@
     ]
   },
   {
-    "word": "lawful",
-    "validRemovals": [
-      {
-        "letter": "l",
-        "word": "awful"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "w"
-      },
-      {
-        "letter": "f"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "l"
-      }
-    ]
-  },
-  {
     "word": "lawn",
     "validRemovals": [
       {
-        "letter": "l",
-        "word": "awn"
+        "letter": "l"
       },
       {
         "letter": "a"
@@ -46534,24 +39067,6 @@
     ]
   },
   {
-    "word": "mace",
-    "validRemovals": [
-      {
-        "letter": "m",
-        "word": "ace"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
     "word": "macron",
     "validRemovals": [
       {
@@ -46572,75 +39087,6 @@
       {
         "letter": "n",
         "word": "macro"
-      }
-    ]
-  },
-  {
-    "word": "madding",
-    "validRemovals": [
-      {
-        "letter": "m",
-        "word": "adding"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "d"
-      },
-      {
-        "letter": "d"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "madman",
-    "validRemovals": [
-      {
-        "letter": "m",
-        "word": "adman"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "d"
-      },
-      {
-        "letter": "m"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n"
-      }
-    ]
-  },
-  {
-    "word": "mage",
-    "validRemovals": [
-      {
-        "letter": "m",
-        "word": "age"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "e"
       }
     ]
   },
@@ -46687,33 +39133,6 @@
     ]
   },
   {
-    "word": "magnate",
-    "validRemovals": [
-      {
-        "letter": "m",
-        "word": "agnate"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
     "word": "magneto",
     "validRemovals": [
       {
@@ -46744,8 +39163,7 @@
     "word": "mail",
     "validRemovals": [
       {
-        "letter": "m",
-        "word": "ail"
+        "letter": "m"
       },
       {
         "letter": "a",
@@ -46761,56 +39179,10 @@
     ]
   },
   {
-    "word": "mailing",
-    "validRemovals": [
-      {
-        "letter": "m",
-        "word": "ailing"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "maim",
-    "validRemovals": [
-      {
-        "letter": "m",
-        "word": "aim"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "m"
-      }
-    ]
-  },
-  {
     "word": "maiming",
     "validRemovals": [
       {
-        "letter": "m",
-        "word": "aiming"
+        "letter": "m"
       },
       {
         "letter": "a",
@@ -46837,8 +39209,7 @@
     "word": "main",
     "validRemovals": [
       {
-        "letter": "m",
-        "word": "ain"
+        "letter": "m"
       },
       {
         "letter": "a",
@@ -46918,8 +39289,7 @@
     "word": "male",
     "validRemovals": [
       {
-        "letter": "m",
-        "word": "ale"
+        "letter": "m"
       },
       {
         "letter": "a"
@@ -46934,35 +39304,10 @@
     ]
   },
   {
-    "word": "malign",
-    "validRemovals": [
-      {
-        "letter": "m",
-        "word": "align"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "n"
-      }
-    ]
-  },
-  {
     "word": "mall",
     "validRemovals": [
       {
-        "letter": "m",
-        "word": "all"
+        "letter": "m"
       },
       {
         "letter": "a"
@@ -46974,30 +39319,6 @@
       {
         "letter": "l",
         "word": "mal"
-      }
-    ]
-  },
-  {
-    "word": "mallow",
-    "validRemovals": [
-      {
-        "letter": "m",
-        "word": "allow"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "w"
       }
     ]
   },
@@ -47005,8 +39326,7 @@
     "word": "malt",
     "validRemovals": [
       {
-        "letter": "m",
-        "word": "alt"
+        "letter": "m"
       },
       {
         "letter": "a"
@@ -47070,27 +39390,6 @@
     ]
   },
   {
-    "word": "mambo",
-    "validRemovals": [
-      {
-        "letter": "m",
-        "word": "ambo"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "m"
-      },
-      {
-        "letter": "b"
-      },
-      {
-        "letter": "o"
-      }
-    ]
-  },
-  {
     "word": "mamma",
     "validRemovals": [
       {
@@ -47140,8 +39439,7 @@
     "word": "man",
     "validRemovals": [
       {
-        "letter": "m",
-        "word": "an"
+        "letter": "m"
       },
       {
         "letter": "a"
@@ -47220,8 +39518,7 @@
     "word": "mangle",
     "validRemovals": [
       {
-        "letter": "m",
-        "word": "angle"
+        "letter": "m"
       },
       {
         "letter": "a"
@@ -47315,8 +39612,7 @@
     "word": "mantic",
     "validRemovals": [
       {
-        "letter": "m",
-        "word": "antic"
+        "letter": "m"
       },
       {
         "letter": "a"
@@ -47400,63 +39696,6 @@
     ]
   },
   {
-    "word": "march",
-    "validRemovals": [
-      {
-        "letter": "m",
-        "word": "arch"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "h"
-      }
-    ]
-  },
-  {
-    "word": "mare",
-    "validRemovals": [
-      {
-        "letter": "m",
-        "word": "are"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "mark",
-    "validRemovals": [
-      {
-        "letter": "m",
-        "word": "ark"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "k"
-      }
-    ]
-  },
-  {
     "word": "marking",
     "validRemovals": [
       {
@@ -47530,30 +39769,6 @@
     ]
   },
   {
-    "word": "marrow",
-    "validRemovals": [
-      {
-        "letter": "m",
-        "word": "arrow"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "w"
-      }
-    ]
-  },
-  {
     "word": "marsh",
     "validRemovals": [
       {
@@ -47578,8 +39793,7 @@
     "word": "mart",
     "validRemovals": [
       {
-        "letter": "m",
-        "word": "art"
+        "letter": "m"
       },
       {
         "letter": "a"
@@ -47621,71 +39835,10 @@
     ]
   },
   {
-    "word": "mascot",
-    "validRemovals": [
-      {
-        "letter": "m",
-        "word": "ascot"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "mash",
-    "validRemovals": [
-      {
-        "letter": "m",
-        "word": "ash"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "h"
-      }
-    ]
-  },
-  {
-    "word": "mask",
-    "validRemovals": [
-      {
-        "letter": "m",
-        "word": "ask"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "k"
-      }
-    ]
-  },
-  {
     "word": "masking",
     "validRemovals": [
       {
-        "letter": "m",
-        "word": "asking"
+        "letter": "m"
       },
       {
         "letter": "a"
@@ -47730,8 +39883,7 @@
     "word": "mat",
     "validRemovals": [
       {
-        "letter": "m",
-        "word": "at"
+        "letter": "m"
       },
       {
         "letter": "a"
@@ -47767,8 +39919,7 @@
     "word": "mate",
     "validRemovals": [
       {
-        "letter": "m",
-        "word": "ate"
+        "letter": "m"
       },
       {
         "letter": "a"
@@ -50250,47 +42401,10 @@
     ]
   },
   {
-    "word": "nab",
-    "validRemovals": [
-      {
-        "letter": "n",
-        "word": "ab"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "b"
-      }
-    ]
-  },
-  {
-    "word": "nacre",
-    "validRemovals": [
-      {
-        "letter": "n",
-        "word": "acre"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
     "word": "nail",
     "validRemovals": [
       {
-        "letter": "n",
-        "word": "ail"
+        "letter": "n"
       },
       {
         "letter": "a",
@@ -50301,33 +42415,6 @@
       },
       {
         "letter": "l"
-      }
-    ]
-  },
-  {
-    "word": "nailing",
-    "validRemovals": [
-      {
-        "letter": "n",
-        "word": "ailing"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
       }
     ]
   },
@@ -50356,8 +42443,7 @@
     "word": "nape",
     "validRemovals": [
       {
-        "letter": "n",
-        "word": "ape"
+        "letter": "n"
       },
       {
         "letter": "a"
@@ -50368,75 +42454,6 @@
       {
         "letter": "e",
         "word": "nap"
-      }
-    ]
-  },
-  {
-    "word": "nark",
-    "validRemovals": [
-      {
-        "letter": "n",
-        "word": "ark"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "k"
-      }
-    ]
-  },
-  {
-    "word": "narrow",
-    "validRemovals": [
-      {
-        "letter": "n",
-        "word": "arrow"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "w"
-      }
-    ]
-  },
-  {
-    "word": "nascent",
-    "validRemovals": [
-      {
-        "letter": "n",
-        "word": "ascent"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "t"
       }
     ]
   },
@@ -50461,30 +42478,6 @@
       },
       {
         "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "naught",
-    "validRemovals": [
-      {
-        "letter": "n",
-        "word": "aught"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "h"
-      },
-      {
-        "letter": "t"
       }
     ]
   },
@@ -51560,21 +43553,6 @@
     ]
   },
   {
-    "word": "oat",
-    "validRemovals": [
-      {
-        "letter": "o",
-        "word": "at"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
     "word": "oath",
     "validRemovals": [
       {
@@ -52558,48 +44536,6 @@
     ]
   },
   {
-    "word": "pace",
-    "validRemovals": [
-      {
-        "letter": "p",
-        "word": "ace"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "pacing",
-    "validRemovals": [
-      {
-        "letter": "p",
-        "word": "acing"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
     "word": "packing",
     "validRemovals": [
       {
@@ -52630,8 +44566,7 @@
     "word": "pact",
     "validRemovals": [
       {
-        "letter": "p",
-        "word": "act"
+        "letter": "p"
       },
       {
         "letter": "a"
@@ -52642,57 +44577,6 @@
       },
       {
         "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "padding",
-    "validRemovals": [
-      {
-        "letter": "p",
-        "word": "adding"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "d"
-      },
-      {
-        "letter": "d"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "paddle",
-    "validRemovals": [
-      {
-        "letter": "p",
-        "word": "addle"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "d"
-      },
-      {
-        "letter": "d"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "e"
       }
     ]
   },
@@ -52718,53 +44602,10 @@
     ]
   },
   {
-    "word": "page",
-    "validRemovals": [
-      {
-        "letter": "p",
-        "word": "age"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "paging",
-    "validRemovals": [
-      {
-        "letter": "p",
-        "word": "aging"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
     "word": "pail",
     "validRemovals": [
       {
-        "letter": "p",
-        "word": "ail"
+        "letter": "p"
       },
       {
         "letter": "a"
@@ -52782,8 +44623,7 @@
     "word": "pain",
     "validRemovals": [
       {
-        "letter": "p",
-        "word": "ain"
+        "letter": "p"
       },
       {
         "letter": "a",
@@ -52852,8 +44692,7 @@
     "word": "pairing",
     "validRemovals": [
       {
-        "letter": "p",
-        "word": "airing"
+        "letter": "p"
       },
       {
         "letter": "a"
@@ -52943,8 +44782,7 @@
     "word": "pale",
     "validRemovals": [
       {
-        "letter": "p",
-        "word": "ale"
+        "letter": "p"
       },
       {
         "letter": "a"
@@ -52962,8 +44800,7 @@
     "word": "pall",
     "validRemovals": [
       {
-        "letter": "p",
-        "word": "all"
+        "letter": "p"
       },
       {
         "letter": "a"
@@ -53109,8 +44946,7 @@
     "word": "pan",
     "validRemovals": [
       {
-        "letter": "p",
-        "word": "an"
+        "letter": "p"
       },
       {
         "letter": "a"
@@ -53203,8 +45039,7 @@
     "word": "pant",
     "validRemovals": [
       {
-        "letter": "p",
-        "word": "ant"
+        "letter": "p"
       },
       {
         "letter": "a"
@@ -53295,33 +45130,6 @@
     ]
   },
   {
-    "word": "parable",
-    "validRemovals": [
-      {
-        "letter": "p",
-        "word": "arable"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "b"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
     "word": "parang",
     "validRemovals": [
       {
@@ -53346,32 +45154,10 @@
     ]
   },
   {
-    "word": "parch",
-    "validRemovals": [
-      {
-        "letter": "p",
-        "word": "arch"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "h"
-      }
-    ]
-  },
-  {
     "word": "pare",
     "validRemovals": [
       {
-        "letter": "p",
-        "word": "are"
+        "letter": "p"
       },
       {
         "letter": "a",
@@ -53382,24 +45168,6 @@
       },
       {
         "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "park",
-    "validRemovals": [
-      {
-        "letter": "p",
-        "word": "ark"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "k"
       }
     ]
   },
@@ -53483,8 +45251,7 @@
     "word": "parse",
     "validRemovals": [
       {
-        "letter": "p",
-        "word": "arse"
+        "letter": "p"
       },
       {
         "letter": "a"
@@ -53553,35 +45320,10 @@
     ]
   },
   {
-    "word": "parson",
-    "validRemovals": [
-      {
-        "letter": "p",
-        "word": "arson"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "n"
-      }
-    ]
-  },
-  {
     "word": "part",
     "validRemovals": [
       {
-        "letter": "p",
-        "word": "art"
+        "letter": "p"
       },
       {
         "letter": "a"
@@ -53708,38 +45450,10 @@
     ]
   },
   {
-    "word": "pastern",
-    "validRemovals": [
-      {
-        "letter": "p",
-        "word": "astern"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "e"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "n"
-      }
-    ]
-  },
-  {
     "word": "pat",
     "validRemovals": [
       {
-        "letter": "p",
-        "word": "at"
+        "letter": "p"
       },
       {
         "letter": "a"
@@ -53775,8 +45489,7 @@
     "word": "pate",
     "validRemovals": [
       {
-        "letter": "p",
-        "word": "ate"
+        "letter": "p"
       },
       {
         "letter": "a"
@@ -53947,35 +45660,10 @@
     ]
   },
   {
-    "word": "pawing",
-    "validRemovals": [
-      {
-        "letter": "p",
-        "word": "awing"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "w"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
     "word": "pawl",
     "validRemovals": [
       {
-        "letter": "p",
-        "word": "awl"
+        "letter": "p"
       },
       {
         "letter": "a"
@@ -53994,8 +45682,7 @@
     "word": "pawn",
     "validRemovals": [
       {
-        "letter": "p",
-        "word": "awn"
+        "letter": "p"
       },
       {
         "letter": "a"
@@ -54014,8 +45701,7 @@
     "word": "pawning",
     "validRemovals": [
       {
-        "letter": "p",
-        "word": "awning"
+        "letter": "p"
       },
       {
         "letter": "a"
@@ -59647,48 +51333,6 @@
     ]
   },
   {
-    "word": "race",
-    "validRemovals": [
-      {
-        "letter": "r",
-        "word": "ace"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "racing",
-    "validRemovals": [
-      {
-        "letter": "r",
-        "word": "acing"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
     "word": "racking",
     "validRemovals": [
       {
@@ -59774,8 +51418,7 @@
     "word": "raft",
     "validRemovals": [
       {
-        "letter": "r",
-        "word": "aft"
+        "letter": "r"
       },
       {
         "letter": "a"
@@ -59793,8 +51436,7 @@
     "word": "raga",
     "validRemovals": [
       {
-        "letter": "r",
-        "word": "aga"
+        "letter": "r"
       },
       {
         "letter": "a"
@@ -59812,8 +51454,7 @@
     "word": "rage",
     "validRemovals": [
       {
-        "letter": "r",
-        "word": "age"
+        "letter": "r"
       },
       {
         "letter": "a"
@@ -59856,50 +51497,10 @@
     ]
   },
   {
-    "word": "raging",
-    "validRemovals": [
-      {
-        "letter": "r",
-        "word": "aging"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "rah",
-    "validRemovals": [
-      {
-        "letter": "r",
-        "word": "ah"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "h"
-      }
-    ]
-  },
-  {
     "word": "raiding",
     "validRemovals": [
       {
-        "letter": "r",
-        "word": "aiding"
+        "letter": "r"
       },
       {
         "letter": "a",
@@ -59923,29 +51524,10 @@
     ]
   },
   {
-    "word": "rail",
-    "validRemovals": [
-      {
-        "letter": "r",
-        "word": "ail"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "l"
-      }
-    ]
-  },
-  {
     "word": "railing",
     "validRemovals": [
       {
-        "letter": "r",
-        "word": "ailing"
+        "letter": "r"
       },
       {
         "letter": "a",
@@ -59972,8 +51554,7 @@
     "word": "rain",
     "validRemovals": [
       {
-        "letter": "r",
-        "word": "ain"
+        "letter": "r"
       },
       {
         "letter": "a"
@@ -60058,50 +51639,10 @@
     ]
   },
   {
-    "word": "ram",
-    "validRemovals": [
-      {
-        "letter": "r",
-        "word": "am"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "m"
-      }
-    ]
-  },
-  {
-    "word": "ramble",
-    "validRemovals": [
-      {
-        "letter": "r",
-        "word": "amble"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "m"
-      },
-      {
-        "letter": "b"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
     "word": "ramp",
     "validRemovals": [
       {
-        "letter": "r",
-        "word": "amp"
+        "letter": "r"
       },
       {
         "letter": "a"
@@ -60140,21 +51681,6 @@
       },
       {
         "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "ran",
-    "validRemovals": [
-      {
-        "letter": "r",
-        "word": "an"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n"
       }
     ]
   },
@@ -60296,35 +51822,10 @@
     ]
   },
   {
-    "word": "rankle",
-    "validRemovals": [
-      {
-        "letter": "r",
-        "word": "ankle"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "k"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
     "word": "rant",
     "validRemovals": [
       {
-        "letter": "r",
-        "word": "ant"
+        "letter": "r"
       },
       {
         "letter": "a"
@@ -60370,8 +51871,7 @@
     "word": "rape",
     "validRemovals": [
       {
-        "letter": "r",
-        "word": "ape"
+        "letter": "r"
       },
       {
         "letter": "a"
@@ -60382,30 +51882,6 @@
       {
         "letter": "e",
         "word": "rap"
-      }
-    ]
-  },
-  {
-    "word": "raping",
-    "validRemovals": [
-      {
-        "letter": "r",
-        "word": "aping"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "p"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
       }
     ]
   },
@@ -60441,8 +51917,7 @@
     "word": "rapt",
     "validRemovals": [
       {
-        "letter": "r",
-        "word": "apt"
+        "letter": "r"
       },
       {
         "letter": "a",
@@ -60459,29 +51934,10 @@
     ]
   },
   {
-    "word": "rare",
-    "validRemovals": [
-      {
-        "letter": "r",
-        "word": "are"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
     "word": "rash",
     "validRemovals": [
       {
-        "letter": "r",
-        "word": "ash"
+        "letter": "r"
       },
       {
         "letter": "a"
@@ -60499,8 +51955,7 @@
     "word": "rasp",
     "validRemovals": [
       {
-        "letter": "r",
-        "word": "asp"
+        "letter": "r"
       },
       {
         "letter": "a"
@@ -60542,21 +51997,6 @@
     ]
   },
   {
-    "word": "rat",
-    "validRemovals": [
-      {
-        "letter": "r",
-        "word": "at"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
     "word": "rata",
     "validRemovals": [
       {
@@ -60578,8 +52018,7 @@
     "word": "rate",
     "validRemovals": [
       {
-        "letter": "r",
-        "word": "ate"
+        "letter": "r"
       },
       {
         "letter": "a"
@@ -63844,8 +55283,7 @@
     "word": "sable",
     "validRemovals": [
       {
-        "letter": "s",
-        "word": "able"
+        "letter": "s"
       },
       {
         "letter": "a"
@@ -63929,35 +55367,10 @@
     ]
   },
   {
-    "word": "saddle",
-    "validRemovals": [
-      {
-        "letter": "s",
-        "word": "addle"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "d"
-      },
-      {
-        "letter": "d"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
     "word": "saga",
     "validRemovals": [
       {
-        "letter": "s",
-        "word": "aga"
+        "letter": "s"
       },
       {
         "letter": "a"
@@ -63975,8 +55388,7 @@
     "word": "sage",
     "validRemovals": [
       {
-        "letter": "s",
-        "word": "age"
+        "letter": "s"
       },
       {
         "letter": "a"
@@ -63994,8 +55406,7 @@
     "word": "sago",
     "validRemovals": [
       {
-        "letter": "s",
-        "word": "ago"
+        "letter": "s"
       },
       {
         "letter": "a"
@@ -64006,93 +55417,6 @@
       {
         "letter": "o",
         "word": "sag"
-      }
-    ]
-  },
-  {
-    "word": "sail",
-    "validRemovals": [
-      {
-        "letter": "s",
-        "word": "ail"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "l"
-      }
-    ]
-  },
-  {
-    "word": "sailing",
-    "validRemovals": [
-      {
-        "letter": "s",
-        "word": "ailing"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "sale",
-    "validRemovals": [
-      {
-        "letter": "s",
-        "word": "ale"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "sallow",
-    "validRemovals": [
-      {
-        "letter": "s",
-        "word": "allow"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "w"
       }
     ]
   },
@@ -64149,8 +55473,7 @@
     "word": "salt",
     "validRemovals": [
       {
-        "letter": "s",
-        "word": "alt"
+        "letter": "s"
       },
       {
         "letter": "a"
@@ -64295,30 +55618,6 @@
     ]
   },
   {
-    "word": "sample",
-    "validRemovals": [
-      {
-        "letter": "s",
-        "word": "ample"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "m"
-      },
-      {
-        "letter": "p"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
     "word": "sang",
     "validRemovals": [
       {
@@ -64337,44 +55636,10 @@
     ]
   },
   {
-    "word": "sash",
-    "validRemovals": [
-      {
-        "letter": "s",
-        "word": "ash"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "h"
-      }
-    ]
-  },
-  {
-    "word": "sat",
-    "validRemovals": [
-      {
-        "letter": "s",
-        "word": "at"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
     "word": "sate",
     "validRemovals": [
       {
-        "letter": "s",
-        "word": "ate"
+        "letter": "s"
       },
       {
         "letter": "a"
@@ -64480,8 +55745,7 @@
     "word": "sawing",
     "validRemovals": [
       {
-        "letter": "s",
-        "word": "awing"
+        "letter": "s"
       },
       {
         "letter": "a",
@@ -64505,8 +55769,7 @@
     "word": "sawn",
     "validRemovals": [
       {
-        "letter": "s",
-        "word": "awn"
+        "letter": "s"
       },
       {
         "letter": "a"
@@ -76965,26 +68228,10 @@
     ]
   },
   {
-    "word": "tab",
-    "validRemovals": [
-      {
-        "letter": "t",
-        "word": "ab"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "b"
-      }
-    ]
-  },
-  {
     "word": "table",
     "validRemovals": [
       {
-        "letter": "t",
-        "word": "able"
+        "letter": "t"
       },
       {
         "letter": "a"
@@ -77077,8 +68324,7 @@
     "word": "tact",
     "validRemovals": [
       {
-        "letter": "t",
-        "word": "act"
+        "letter": "t"
       },
       {
         "letter": "a"
@@ -77093,56 +68339,10 @@
     ]
   },
   {
-    "word": "tactual",
-    "validRemovals": [
-      {
-        "letter": "t",
-        "word": "actual"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "c"
-      },
-      {
-        "letter": "t"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      }
-    ]
-  },
-  {
-    "word": "tail",
-    "validRemovals": [
-      {
-        "letter": "t",
-        "word": "ail"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "l"
-      }
-    ]
-  },
-  {
     "word": "tailing",
     "validRemovals": [
       {
-        "letter": "t",
-        "word": "ailing"
+        "letter": "t"
       },
       {
         "letter": "a",
@@ -77208,24 +68408,6 @@
     ]
   },
   {
-    "word": "tale",
-    "validRemovals": [
-      {
-        "letter": "t",
-        "word": "ale"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
     "word": "talking",
     "validRemovals": [
       {
@@ -77253,63 +68435,6 @@
     ]
   },
   {
-    "word": "tall",
-    "validRemovals": [
-      {
-        "letter": "t",
-        "word": "all"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "l"
-      }
-    ]
-  },
-  {
-    "word": "tallow",
-    "validRemovals": [
-      {
-        "letter": "t",
-        "word": "allow"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "w"
-      }
-    ]
-  },
-  {
-    "word": "tam",
-    "validRemovals": [
-      {
-        "letter": "t",
-        "word": "am"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "m"
-      }
-    ]
-  },
-  {
     "word": "tame",
     "validRemovals": [
       {
@@ -77331,8 +68456,7 @@
     "word": "tamp",
     "validRemovals": [
       {
-        "letter": "t",
-        "word": "amp"
+        "letter": "t"
       },
       {
         "letter": "a"
@@ -77376,21 +68500,6 @@
     ]
   },
   {
-    "word": "tan",
-    "validRemovals": [
-      {
-        "letter": "t",
-        "word": "an"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n"
-      }
-    ]
-  },
-  {
     "word": "tang",
     "validRemovals": [
       {
@@ -77406,30 +68515,6 @@
       {
         "letter": "g",
         "word": "tan"
-      }
-    ]
-  },
-  {
-    "word": "tangle",
-    "validRemovals": [
-      {
-        "letter": "t",
-        "word": "angle"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "e"
       }
     ]
   },
@@ -77530,8 +68615,7 @@
     "word": "tape",
     "validRemovals": [
       {
-        "letter": "t",
-        "word": "ape"
+        "letter": "t"
       },
       {
         "letter": "a"
@@ -77542,30 +68626,6 @@
       {
         "letter": "e",
         "word": "tap"
-      }
-    ]
-  },
-  {
-    "word": "taping",
-    "validRemovals": [
-      {
-        "letter": "t",
-        "word": "aping"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "p"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
       }
     ]
   },
@@ -77594,24 +68654,6 @@
       },
       {
         "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "tare",
-    "validRemovals": [
-      {
-        "letter": "t",
-        "word": "are"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "e"
       }
     ]
   },
@@ -77678,8 +68720,7 @@
     "word": "tart",
     "validRemovals": [
       {
-        "letter": "t",
-        "word": "art"
+        "letter": "t"
       },
       {
         "letter": "a"
@@ -77694,29 +68735,10 @@
     ]
   },
   {
-    "word": "task",
-    "validRemovals": [
-      {
-        "letter": "t",
-        "word": "ask"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "k"
-      }
-    ]
-  },
-  {
     "word": "tasking",
     "validRemovals": [
       {
-        "letter": "t",
-        "word": "asking"
+        "letter": "t"
       },
       {
         "letter": "a"
@@ -77740,50 +68762,10 @@
     ]
   },
   {
-    "word": "tat",
-    "validRemovals": [
-      {
-        "letter": "t",
-        "word": "at"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "taught",
-    "validRemovals": [
-      {
-        "letter": "t",
-        "word": "aught"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "h"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
     "word": "taunt",
     "validRemovals": [
       {
-        "letter": "t",
-        "word": "aunt"
+        "letter": "t"
       },
       {
         "letter": "a"
@@ -77903,30 +68885,6 @@
       {
         "letter": "i",
         "word": "taxing"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "taxing",
-    "validRemovals": [
-      {
-        "letter": "t",
-        "word": "axing"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "x"
-      },
-      {
-        "letter": "i"
       },
       {
         "letter": "n"
@@ -84001,32 +74959,10 @@
     ]
   },
   {
-    "word": "vague",
-    "validRemovals": [
-      {
-        "letter": "v",
-        "word": "ague"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
     "word": "vain",
     "validRemovals": [
       {
-        "letter": "v",
-        "word": "ain"
+        "letter": "v"
       },
       {
         "letter": "a"
@@ -84037,24 +74973,6 @@
       },
       {
         "letter": "n"
-      }
-    ]
-  },
-  {
-    "word": "vale",
-    "validRemovals": [
-      {
-        "letter": "v",
-        "word": "ale"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "e"
       }
     ]
   },
@@ -84118,39 +75036,6 @@
       },
       {
         "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "vamp",
-    "validRemovals": [
-      {
-        "letter": "v",
-        "word": "amp"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "m"
-      },
-      {
-        "letter": "p"
-      }
-    ]
-  },
-  {
-    "word": "van",
-    "validRemovals": [
-      {
-        "letter": "v",
-        "word": "an"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n"
       }
     ]
   },
@@ -84235,42 +75120,6 @@
       {
         "letter": "s",
         "word": "vat"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "vat",
-    "validRemovals": [
-      {
-        "letter": "v",
-        "word": "at"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "vaunt",
-    "validRemovals": [
-      {
-        "letter": "v",
-        "word": "aunt"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "u"
-      },
-      {
-        "letter": "n"
       },
       {
         "letter": "t"
@@ -85113,8 +75962,7 @@
     "word": "wadding",
     "validRemovals": [
       {
-        "letter": "w",
-        "word": "adding"
+        "letter": "w"
       },
       {
         "letter": "a"
@@ -85139,53 +75987,10 @@
     ]
   },
   {
-    "word": "waddle",
-    "validRemovals": [
-      {
-        "letter": "w",
-        "word": "addle"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "d"
-      },
-      {
-        "letter": "d"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "waft",
-    "validRemovals": [
-      {
-        "letter": "w",
-        "word": "aft"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "f"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
     "word": "wage",
     "validRemovals": [
       {
-        "letter": "w",
-        "word": "age"
+        "letter": "w"
       },
       {
         "letter": "a"
@@ -85228,53 +76033,10 @@
     ]
   },
   {
-    "word": "waging",
-    "validRemovals": [
-      {
-        "letter": "w",
-        "word": "aging"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "wail",
-    "validRemovals": [
-      {
-        "letter": "w",
-        "word": "ail"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "l"
-      }
-    ]
-  },
-  {
     "word": "wailing",
     "validRemovals": [
       {
-        "letter": "w",
-        "word": "ailing"
+        "letter": "w"
       },
       {
         "letter": "a",
@@ -85407,24 +76169,6 @@
     ]
   },
   {
-    "word": "wale",
-    "validRemovals": [
-      {
-        "letter": "w",
-        "word": "ale"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
     "word": "walking",
     "validRemovals": [
       {
@@ -85449,24 +76193,6 @@
       },
       {
         "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "wall",
-    "validRemovals": [
-      {
-        "letter": "w",
-        "word": "all"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "l"
       }
     ]
   },
@@ -85499,45 +76225,6 @@
     ]
   },
   {
-    "word": "wallow",
-    "validRemovals": [
-      {
-        "letter": "w",
-        "word": "allow"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "w"
-      }
-    ]
-  },
-  {
-    "word": "wan",
-    "validRemovals": [
-      {
-        "letter": "w",
-        "word": "an"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n"
-      }
-    ]
-  },
-  {
     "word": "wane",
     "validRemovals": [
       {
@@ -85552,30 +76239,6 @@
       {
         "letter": "e",
         "word": "wan"
-      }
-    ]
-  },
-  {
-    "word": "wangle",
-    "validRemovals": [
-      {
-        "letter": "w",
-        "word": "angle"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      },
-      {
-        "letter": "l"
-      },
-      {
-        "letter": "e"
       }
     ]
   },
@@ -85601,8 +76264,7 @@
     "word": "want",
     "validRemovals": [
       {
-        "letter": "w",
-        "word": "ant"
+        "letter": "w"
       },
       {
         "letter": "a"
@@ -85671,24 +76333,6 @@
     ]
   },
   {
-    "word": "ware",
-    "validRemovals": [
-      {
-        "letter": "w",
-        "word": "are"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
     "word": "wariest",
     "validRemovals": [
       {
@@ -85712,51 +76356,6 @@
       },
       {
         "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "warm",
-    "validRemovals": [
-      {
-        "letter": "w",
-        "word": "arm"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "m"
-      }
-    ]
-  },
-  {
-    "word": "warming",
-    "validRemovals": [
-      {
-        "letter": "w",
-        "word": "arming"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "m"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
       }
     ]
   },
@@ -85793,138 +76392,6 @@
       },
       {
         "letter": "n"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
-    "word": "warrant",
-    "validRemovals": [
-      {
-        "letter": "w",
-        "word": "arrant"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "wart",
-    "validRemovals": [
-      {
-        "letter": "w",
-        "word": "art"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "t"
-      }
-    ]
-  },
-  {
-    "word": "wash",
-    "validRemovals": [
-      {
-        "letter": "w",
-        "word": "ash"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "h"
-      }
-    ]
-  },
-  {
-    "word": "wasp",
-    "validRemovals": [
-      {
-        "letter": "w",
-        "word": "asp"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "p"
-      }
-    ]
-  },
-  {
-    "word": "wassail",
-    "validRemovals": [
-      {
-        "letter": "w",
-        "word": "assail"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "s"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "l"
-      }
-    ]
-  },
-  {
-    "word": "waxing",
-    "validRemovals": [
-      {
-        "letter": "w",
-        "word": "axing"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "x"
       },
       {
         "letter": "i"
@@ -89878,36 +80345,6 @@
     ]
   },
   {
-    "word": "yah",
-    "validRemovals": [
-      {
-        "letter": "y",
-        "word": "ah"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "h"
-      }
-    ]
-  },
-  {
-    "word": "yam",
-    "validRemovals": [
-      {
-        "letter": "y",
-        "word": "am"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "m"
-      }
-    ]
-  },
-  {
     "word": "yank",
     "validRemovals": [
       {
@@ -89926,77 +80363,10 @@
     ]
   },
   {
-    "word": "yare",
-    "validRemovals": [
-      {
-        "letter": "y",
-        "word": "are"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "e"
-      }
-    ]
-  },
-  {
-    "word": "yarrow",
-    "validRemovals": [
-      {
-        "letter": "y",
-        "word": "arrow"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "r"
-      },
-      {
-        "letter": "o"
-      },
-      {
-        "letter": "w"
-      }
-    ]
-  },
-  {
-    "word": "yawing",
-    "validRemovals": [
-      {
-        "letter": "y",
-        "word": "awing"
-      },
-      {
-        "letter": "a"
-      },
-      {
-        "letter": "w"
-      },
-      {
-        "letter": "i"
-      },
-      {
-        "letter": "n"
-      },
-      {
-        "letter": "g"
-      }
-    ]
-  },
-  {
     "word": "yawl",
     "validRemovals": [
       {
-        "letter": "y",
-        "word": "awl"
+        "letter": "y"
       },
       {
         "letter": "a"
@@ -90014,8 +80384,7 @@
     "word": "yawn",
     "validRemovals": [
       {
-        "letter": "y",
-        "word": "awn"
+        "letter": "y"
       },
       {
         "letter": "a"
@@ -90033,8 +80402,7 @@
     "word": "yawning",
     "validRemovals": [
       {
-        "letter": "y",
-        "word": "awning"
+        "letter": "y"
       },
       {
         "letter": "a"
